@@ -1,0 +1,32 @@
+.shadow{
+
+  text-align: center;
+  font-size: 30px;
+  font-weight: 400;
+  font-family: Arial, Helvetica, sans-serif;
+}
+
+.searchcontainer{
+    background-image: url('https://www.thesun.ie/wp-content/uploads/sites/3/2020/01/NINTCHDBPICT000452744467-1.jpg?strip=all&quality=100&w=1920&h=1440&crop=1');
+    height: 200px;
+    background-size:cover;
+    background-repeat: no-repeat;
+    padding-top: 5%;
+}
+.form-control {
+    margin: auto;
+}
+
+.card-img-top{
+    padding: 10%;
+}
+
+#msg{
+    text-align: center;
+}
+#footer{
+    height: 30px;
+    background-color: rgb(105, 99, 99);
+    margin-bottom: 0;
+    color: azure;
+}
